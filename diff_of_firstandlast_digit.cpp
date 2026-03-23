@@ -42,3 +42,8 @@ else{
 }
 return 0;
 }
+output:
+
+Enter a number: 560
+25
+Odd positive: HOW ARE YOU

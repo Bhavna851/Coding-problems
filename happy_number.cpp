@@ -33,3 +33,7 @@ int main(){
     }
 return 0;
 }
+
+output:
+enter a number: 167
+Yes! the number is a happy number

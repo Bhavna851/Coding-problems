@@ -31,3 +31,6 @@ int main(){
     }
     return 0; 
 }
+output:
+enter a number 18
+Yes! The given no. is a harshad number.

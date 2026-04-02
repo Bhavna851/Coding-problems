@@ -1,5 +1,5 @@
 /*Harshad number 
-A number is said to be harshad number is it is divisible the 
+A number is said to be harshad number is it is divisible the
 sum of its digits*/
 
 #include<iostream>

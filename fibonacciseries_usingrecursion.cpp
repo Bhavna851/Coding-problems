@@ -1,4 +1,4 @@
-/*fibonacci series
+ /*fibonacci series
  0 1 1 2 3 5 8 13 21 34 ......
  so here in these series the next number is obtained by 
  the addition of previous two digit .

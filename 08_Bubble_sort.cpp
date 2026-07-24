@@ -40,4 +40,4 @@ int main(){
     }
     return 0;
 }
-/*tIME COMPLEXITY = O(N) FOR THE BEST CASE SCENARIO*/
+/*tIME COMPLEXITY = O(N) FOR THE BEST CASE SCEnario*/
